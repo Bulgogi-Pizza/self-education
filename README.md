@@ -1,1 +1,9 @@
-# self-education
+# Bulgogi-Pizza self-study
+
+Learn about ..
+
+Java
+- 
+
+HTML
+- 
