@@ -8,7 +8,7 @@
  * double : 8byte
  */
 
-package language.java.practice.Practice_004_PrimitiveType;
+package language.java.practice.Practice_002_Type;
 
 public class PrimitiveType {
     public static void main(String[] args) {

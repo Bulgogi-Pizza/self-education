@@ -15,7 +15,7 @@
  *  1234123L, 1214.24123F, 124.2D (or lower cases are available)
  */
 
-package language.java.practice.Practice_003_Constant;
+package language.java.practice.Practice_002_Type;
 
 public class Constant {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package language.java.practice.Practice_005_TypeConversion;
+package language.java.practice.Practice_002_Type;
 
 public class TypeConversion {
     public static void main(String[] args) {

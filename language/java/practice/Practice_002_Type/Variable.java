@@ -23,7 +23,7 @@
  *     3. call
  */
 
-package language.java.practice.Practice_002_Variable;
+package language.java.practice.Practice_002_Type;
 
 public class Variable {
     public static void main(String[] args) {
