@@ -80,5 +80,7 @@ public class UtilizationOfArray {
         for (int e : arr5) {
             System.out.println(e);
         }
+
+        String str = new String()
     }
 }
